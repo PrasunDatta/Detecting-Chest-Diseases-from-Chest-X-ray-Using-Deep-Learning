@@ -1,0 +1,13 @@
+easydict==1.9
+efficientnet-pytorch==0.7.0
+numpy==1.19.2
+resnest==0.0.3
+scikit-image==0.17.2
+scikit-learn
+scipy==1.5.4
+tensorboardX
+torch==1.7.0 -f https://download.pytorch.org/whl/torch_stable.html
+torch-summary==1.4.3
+torchaudio==0.7.0
+torchvision==0.8.1
+tqdm==4.52.0
